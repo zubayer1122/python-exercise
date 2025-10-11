@@ -1,56 +1,76 @@
 #p_1 {
-    background-color: rgb(17, 0, 255);
-    color: rgb(3, 3, 3);
-    font-size:20px;
+    /* background-color: rgb(17, 0, 255); */
+    color: rgb(114, 114, 114);
+    font-size:30px;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     padding: 10px;
-    margin: 10px;
+    margin: 20px;
     /* border: 2px solid black; */
     border-radius: 50px; 
-    box-shadow: 10px 10px 5px burlywood;
+    /* box-shadow: 10px 10px 5px burlywood; */
     margin: 10px 50px 10px 150px;
-    text-shadow: 2px 2px  10px gray;
+    /* text-shadow: 2px 2px  10px gray; */
     line-height: 2px;
     
 }
 
-p{
+/* p{
     background-color: rgb(125, 125, 125);
-}
+} */
 
 .container_2{
-    background-color: rgb(17, 0, 255);
-    color: rgb(3, 3, 3);
-    font-size:20px;
+    background-color: rgb(0, 47, 71);
+    color: rgb(246, 246, 246);
+    font-size:19px;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     padding: 10px;
     margin: 10px;
-    border-radius: 50px; 
-    box-shadow: 10px 10px 5px burlywood;
+    border-radius: 15px; 
+    box-shadow: 10px 10px 5px rgb(173, 173, 173);
     margin: 10px 50px 10px 150px;
-    text-shadow: 2px 2px  10px gray;
-    line-height: 2px;
-    width: 300px;
-    height: 200px;
-     border: 2px solid black;
+    /* text-shadow: 2px 2px  2px gray; */
+    line-height: 28px;
+    width: 345px;
+    height: 232px;
+    position: absolute;
+    left: -91px;
+    top: 896px;
+     border: 2px solid rgb(0, 8, 67);
     
 }
 .hi {
-     background-color: rgb(214, 235, 196);
+     background-color: rgb(152, 152, 152);
     color: rgb(3, 3, 3);
     font-size:20px;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     padding: 10px;
     margin: 10px;
-    border-radius: 50px; 
-    box-shadow: 10px 10px 5px burlywood;
+    border-radius: 10px; 
+    box-shadow: 10px 10px 5px rgb(143, 143, 143);
     margin: 10px 50px 10px 150px;
-    text-shadow: 2px 2px  10px gray;
+    /* text-shadow: 2px 2px  10px gray; */
     line-height: 2px;
     width: 300px;
-    height: 200px;
-    border: 2px solid black;
+    height: 198px;
+    border: 2px solid rgb(72, 79, 83);
+    position: absolute;
+    top: 913px;
+    left: 364px;
+    
+}
+
+.container_3{
+    position: absolute;
+    top: 861px;
+    left: 900px;
+    box-shadow: 5px 5px 39px;
+
+}
+
+body{
+    background-color: rgb(255, 253, 226);
+    margin: 20px 20px;
 }
